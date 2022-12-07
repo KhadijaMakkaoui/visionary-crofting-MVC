@@ -1,9 +1,7 @@
 package com.visionarycrofting.controller;
 
 
-import com.visionarycrofting.entity.Category;
 import com.visionarycrofting.entity.Commande;
-import com.visionarycrofting.entity.CommandeItems;
 import com.visionarycrofting.entity.StatusCommande;
 import com.visionarycrofting.service.IService.ICommandeService;
 import com.visionarycrofting.utils.GenerateReference;

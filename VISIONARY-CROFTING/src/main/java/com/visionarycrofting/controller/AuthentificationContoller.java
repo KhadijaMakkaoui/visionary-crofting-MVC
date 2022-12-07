@@ -6,7 +6,6 @@ import com.visionarycrofting.entity.Stock;
 import com.visionarycrofting.service.IService.IClientService;
 import com.visionarycrofting.service.IService.IFornisseurService;
 import com.visionarycrofting.service.IService.IStockService;
-import com.visionarycrofting.service.StockService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 @RestController
